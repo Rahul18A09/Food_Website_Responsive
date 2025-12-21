@@ -216,7 +216,7 @@ p {
 /* 4 counter Design */
 .counter-section {
   background-color: var(--black-color);
-  padding: 2.5rem 0;
+  padding:2.5rem 0;
 }
 
 .counter-section h2 {
@@ -379,7 +379,52 @@ p {
   line-height: 2.1875rem;
 }
 
-.social-icon i:hover{
+.social-icon i:hover {
   background-color: var(--white-color);
-  color:var(--text-primary);
+  color: var(--text-primary);
+}
+
+/* 10 Book Food */
+
+.book-food {
+  width: 100%;
+  background: url("../images/bg/bg-3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 0 4.4945rem;
+  padding: 4.375rem 0;
+  overflow: hidden;
+}
+
+.book-food h2 {
+  color: var(--text-primary);
+}
+
+/* Download App Section */
+
+.download-app {
+  width: 100%;
+  background: url("../images/bg/bg-5.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* 11 Footer Section */
+
+.footer {
+  background: var(--black-color);
+}
+
+.footer .footer-link {
+  font-size: 1rem;
+  color: var(--text-white);
+  padding: 0 1.875rem;
+
+}
+
+.footer a{
+  font-size:1.5rem;
+  color:var(--text-white);
+  padding:0 0.4rem;
+  
 }
