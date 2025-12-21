@@ -216,7 +216,7 @@ p {
 /* 4 counter Design */
 .counter-section {
   background-color: var(--black-color);
-  padding:2.5rem 0;
+  padding: 2.5rem 0;
 }
 
 .counter-section h2 {
@@ -261,7 +261,9 @@ p {
   background-size: cover;
   padding-top: 6.25rem;
   text-align: center;
+
 }
+
 
 /* 7 Explore Foos Section */
 .explore-food {
@@ -419,12 +421,10 @@ p {
   font-size: 1rem;
   color: var(--text-white);
   padding: 0 1.875rem;
-
 }
 
-.footer a{
-  font-size:1.5rem;
-  color:var(--text-white);
-  padding:0 0.4rem;
-  
+.footer a {
+  font-size: 1.5rem;
+  color: var(--text-white);
+  padding: 0 0.4rem;
 }
