@@ -47,21 +47,21 @@ Footer
 
 🛠️ Tech Stack
 
-HTML5
+•HTML5
 
-CSS3
+•CSS3
 
-Custom stylesheets
+•Custom stylesheets
 
-Bootstrap 5 (local files)
+•Bootstrap 5 (local files)
 
-Vanilla JavaScript
+•Vanilla JavaScript
 
-Font Awesome (CDN)
+•Font Awesome (CDN)
 
-Animate.css (CDN)
+•Animate.css (CDN)
 
-Popper.js (CDN)
+•Popper.js (CDN)
 
 📁 Project Structure
 Food_Website_Responsive/
