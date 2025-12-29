@@ -23,19 +23,19 @@ Open index.html in your browser to view the website locally.
 
 🧭 Clean multi-section landing page:
 
-Hero / Banner
+•Hero / Banner
 
-About Us
+•About Us
 
-Explore Foods (Cards)
+•Explore Foods (Cards)
 
-Testimonials (Bootstrap Carousel)
+•Testimonials (Bootstrap Carousel)
 
-Team Section
+•Team Section
 
-App Download CTA
+•App Download CTA
 
-Footer
+•Footer
 
 🔢 Animated counters using vanilla JavaScript
 
